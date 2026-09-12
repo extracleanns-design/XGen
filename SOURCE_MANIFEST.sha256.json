@@ -1,0 +1,16 @@
+{
+  "files": {
+    ".github/workflows/release-integrity.yml": "35cc7756af1bb28f7f6cc7827442131eb9113ae1d4ceb62c8c098b37c4e379b5",
+    "DVS_VERIFICATION_RESULT.txt": "abfd5928a3e3e4720808abd4261a7ac3562ee4f1fc879664adcd5c23bdd596bb",
+    "MANIFEST_ROOT.sha256": "370311257fdeeb6176bd82323987e476d7feeb03b79093340697799609e664b1",
+    "README_RELEASE.md": "32b1e9659aa984517de10e423c6cc468d622c6ee154371b7e3f950224795ea1e",
+    "index.html": "956fb362f61801f7b9514c5d67511c798baab689c2e268f244770bd7ea310772",
+    "manifest.sha256.json": "b6426801216fb5a2dc3602e8194f2367d64cf4e2b0c44c4e232ff603429a6759",
+    "scripts/verify_release.py": "211238273bb63385e8c44350dbdcccbe34474d725718d8f559b2bec32f4c2815",
+    "supabase/config.toml": "9c2581032773decc053461d5d356ea194ce2ba0c8c95efea66902dad5f4cfd6b",
+    "supabase/functions/nr-kenya-live-v2/index.ts": "e544ba92e1cec38b19443d6a08542c30b3f7eac94df2032f626bc87580a0f731",
+    "vercel.json": "617b766834ef9fa39489453c5da30c4b7a5238625afe1d4ef37b68c41b4053fc"
+  },
+  "release": "DAVL_PLANETARY_STEWARDSHIP_v2.2.0",
+  "scope": "FULL_REPOSITORY_SOURCE"
+}

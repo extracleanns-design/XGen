@@ -1,0 +1,13 @@
+{
+  "edge": {
+    "api_version": "2.2",
+    "function": "nr-kenya-live-v2",
+    "version": 2
+  },
+  "files": {
+    "DVS_VERIFICATION_RESULT.txt": "abfd5928a3e3e4720808abd4261a7ac3562ee4f1fc879664adcd5c23bdd596bb",
+    "index.html": "956fb362f61801f7b9514c5d67511c798baab689c2e268f244770bd7ea310772",
+    "vercel.json": "617b766834ef9fa39489453c5da30c4b7a5238625afe1d4ef37b68c41b4053fc"
+  },
+  "release": "DAVL_PLANETARY_STEWARDSHIP_v2.2.0"
+}
